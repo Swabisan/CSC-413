@@ -1,3 +1,3 @@
 # csc413-p1
 
-Arithmetic Calculator in Java
+Arithmetic Calculator w/ a GUI in Java
